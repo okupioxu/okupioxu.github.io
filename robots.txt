@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://okupioxu.github.io/sitemap/sitemap_index.txt.gz
